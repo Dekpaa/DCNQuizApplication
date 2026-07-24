@@ -1,0 +1,216 @@
+{
+    "id": "ppr007",
+    "title": "Chapter 7 ",
+    "image_url": "",
+    "description": "Transport and Application Layer",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr007q001",
+            "question": "The ______ fields is used for error detection.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Checksum"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Urgent pointer"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Sequence number"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Acknowledgement number"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr007q002",
+            "question": "The ______ fields is used to order packets of a message. ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Checksum"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Urgent pointer"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Sequence number"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Acknowledgement number"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q003",
+            "question": "This protocol provides identification of source and destination port addresses. ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Transmission Control Protocol (TCP)"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "User Datagram Protocol (UDP)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "File Transfer Protocol (FTP)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Address Resolution Protocol (ARP)"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr007q004",
+            "question": "Which layer in OSI model performs the process to represent encrypts and descrypts data.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Presentation"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Network"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Application"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Physical"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr007q005",
+            "question": "On which OSI layer do Pocket Filtering Firewalls work ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "At the application layer "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "At the transport layer"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "At the network layer"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Both at the application and transport layer"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q006",
+            "question": "Which protocol is used for E-Mail Traffic ? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "IM"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "ARP"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "SMTP"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "DMS"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q007",
+            "question": "Which protocol is used to load or retrieve files between the client and server communication? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Transmission Control Protocol (TCP) "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "User Datagram Protocol (UDP)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "File Transfer Protocol (FTP)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Hypertext Transfer Protocol (HTTP)"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q008",
+            "question": "Which of the following layers does the HTTP protocol work on?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Application layer "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Data link layer"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Network layer"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None of the above"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr007q009",
+            "question": "What is the size of the destination port in the UDP protocol? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "8 bits "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "16 bits"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "20 bits"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "32 bits"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

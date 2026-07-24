@@ -1,0 +1,216 @@
+{
+    "id": "ppr004",
+    "title": "Chapter 4",
+    "image_url": "",
+    "description": "Local Area Network",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr004q001",
+            "question": "All these are types of VLANS except",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Protocol VLAN"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Static VLAN"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Dynamic VLAN"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Transport VLAN"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q002",
+            "question": "A hierarchical LAN design includes the following three layers except",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Access layer"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Distribution layer"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Media layer"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Core layer"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q003",
+            "question": "What is a LAN?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Local Area Netflix"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Local Area Network"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Llama Alpaca Negotiations"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Local Arabian Network"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q004",
+            "question": "What is a characteristic of a LAN?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Small geographical location such as a school or small office."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Really cheap to set up."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Uses less cables than a star."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above "
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "If all devices are connected to a central hub, then the topology is called_____",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Bus topology"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Tree topology"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Ring topology"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Star topology"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q006",
+            "question": "LAN works on which of the following Layers?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Datalink and Network"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Physical and Datalink"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Physical"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Datalink"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q007",
+            "question": "Which of the following is a small single site network? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "LAN"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "MAN"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "DSL"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "WAN"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q008",
+            "question": "Any combination of two or more topologies is a ________ .",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Bus network topology"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Hybrid network topology"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Tree network topology "
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Ring network topology"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q009",
+            "question": "Local area network architecture is categorized as ______",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Peer-to-peer,private -server"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Peer-to-peer,public-server"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "peer-to-peer , client-server"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Point-to-point,public-server"
+                }
+            ],
+            "correct_answer": "C"
+        }
+    ]
+}

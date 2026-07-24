@@ -1,0 +1,216 @@
+{
+    "id": "ppr010",
+    "title": "Chapter 10",
+    "image_url": "",
+    "description": "Presentation Layer Optimization",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr010q001",
+            "question": "Types of network monitoring tools?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Network Detection Tools"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Spot Check Tools"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Trending Tools"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr010q002",
+            "question": "Spot check network monitoring tools are designed for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "For troubleshooting"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "For network security"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "For network optimization"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "For network capacity planning"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr010q003",
+            "question": "What is the function of the Simple Network Management Protocol (SNMP) Protocol?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Provides a mechanism for hackers to access and control your network"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Provides a mechanism for users to access and modify network settings"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Provides a mechanism for management to extract information from Management Information Base (MIB)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Provides a mechanism for viruses to spread across the network"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr010q004",
+            "question": "What is the purpose of network security?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The process of optimizing network performance"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The process of analyzing network traffic"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The process of securing your network against physical threats"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "The defense you use to protect yourself against ever-increasing cybercrime"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr010q005",
+            "question": "What are the benefits of network security?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "To limit the amount of data that can be stored on the network"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "To protects sensitive information"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "To loss or corruption of valuable data"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": " To discontinued operational ability"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr010q006",
+            "question": "What are the three key focuses of network security key?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Physical, Digital and Signature"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Security, Biometric and Password"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Protection, Detection and Response"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Biometric, Protection and Digital"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr010q007",
+            "question": "Protection is one of the key focuses of network security. What is the reason for having network security for protection.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "To optimize network performance"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "To prevent network security intrusion"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "To prevent data breaches"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "To reduce network latency"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr010q008",
+            "question": "Detection is one of the key focuses of network security. Detection refers to…",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The process of securing your network against physical threats "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The process of optimizing network performance"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The process of analyzing network traffic"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "The resources that allow you to analyze network traffic and quickly identify problems before they can do harm"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr010q009",
+            "question": "What is the effect of not having network security for your business?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Not having network security can reduce the amount of maintenance required for a business"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Not having network security has no effect on a business"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Not having network security can improve the efficiency of a business"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Not having network security can result in network breaches and malicious threats"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

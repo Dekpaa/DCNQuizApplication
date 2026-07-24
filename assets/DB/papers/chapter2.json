@@ -1,0 +1,216 @@
+{
+    "id": "ppr002",
+    "title": "Chapter 2",
+    "image_url": "",
+    "description": "Physical Layer",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "What are the two basic types of communication systems?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Analog and digital"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Optical and wireless"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Analog and Optical"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Wired and wireless"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "Disadvantages of analog communication except ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Coding is not possible"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Low bandwidth requirement"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Noise affects the signal quality"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Repeaters cannot be used between transmitters and receivers"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "Which of the following advantages of Analog communications ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Coding is not possible"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Noise affects the signal quality"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "FDM can be used"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "It is not suitable for the transmission of secret information"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q004",
+            "question": ".The physical layer is concerned with _________",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "bit-by-bit delivery"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "process to process delivery"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "application to application delivery"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "port to port delivery"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "What are digital signals?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Continuous in nature"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Discrete in nature and represent sequence of voltage pulses"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Represented by continuous electromagnetic waves"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Transferred between two or more points in a communication system"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q006",
+            "question": "What is the effect of noise on analog communication?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Noise does not affect the signal quality."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Noise reduces the signal quality."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Noise can be separated from the signal."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Noise increases the signal quality."
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q007",
+            "question": "What are the three different types of multiplexing?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "TDM, FDM, CDM "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "TDD, FDM, CDM"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "TDM, FDM, SDM"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "FDD, TDD, TDM"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q008",
+            "question": "Bits can be sent over guided and unguided media as analog signal by ___________",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "digital modulation "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "amplitude modulation"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "frequency modulation"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "frequency modulation"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q009",
+            "question": "The physical layer provides __________",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "mechanical specifications of electrical connectors and cables "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "electrical specification of transmission line signal level"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "specification for IR over optical fiber"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "all of the mentioned"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

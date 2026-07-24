@@ -1,0 +1,216 @@
+{
+    "id": "ppr001",
+    "title": "Chapter 1",
+    "image_url": "",
+    "description": "Introduction of Data Communication and Network ",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "Which OSI layer is responsible for reliable data communications?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Transport"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Network"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Application"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Data Link"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "Basic concept of Data Communication except",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Delivery"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Application"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Accuracy"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Jitter"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "Which of the following is the examples of software programs used at the Application layer of the OSI Reference models for creating and transmitting messages ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Electronic Spreadsheets"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Web browsers"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Word processing"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None of the answers"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "Name of layer 5 OSI Reference model is",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Session"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Application"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Data Link"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Network"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "______is the  message that  created at the Data-Link layer?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "An TCP segment "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A datagram"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "An IP packet"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "A frame"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q006",
+            "question": "Which of the following architecture is used for the Internet web service ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "File Server System access"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Internet access system"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Client/server system"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q007",
+            "question": "Which standardization organization is responsible for the 802.3 standard ? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "IEEE "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "ANSI"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "ISO"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "IAB"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q008",
+            "question": "In _____ transmission, the channel capacity is shared by both communicating devices at all times",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "simplex "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "full-duplex"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "half-duplex"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "half-simplex"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q009",
+            "question": "In a mesh topology, the relationship between the two devices is called __",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "primary -to-peer "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "peer-to-primary"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "primary-to-secondary"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "peer-to-peer"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "id": "ppr006",
+    "title": "Chapter 6",
+    "image_url": "",
+    "description": "Network Layer",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr006q001",
+            "question": "How many bits are in an IPv4 address ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "8"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "16"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "32"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "64"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr006q002",
+            "question": "What is the subnet address for host 12.2.2.127/16 ? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "12.2.0.0"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "12.2.2.0"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "12.2.2.112"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "12.2.2.100"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q003",
+            "question": "Which of the following IP addresses for the network 124.16.32.55/28 can be assigned to hosts ? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "124.16.32.45"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "124.16.32.48"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "124.16.32.63"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "124.16.32.62"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr006q004",
+            "question": "Which of the following are not functions of the network layer ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Addressing packets with an IP address"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Delivery reliability"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Routing"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Encapsulation"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr006q005",
+            "question": "What is the class for  IP address 192.168.100.10/24 ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "class A "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "class B"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "class C"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "class D"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr006q006",
+            "question": "A host can be identified by ______ while a program running on the host can be identified by ________. ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "An IP address; a port number"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "An IP address; a host address"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A port number; an IP address"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "An IP address; a well-known port"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q007",
+            "question": "Which one is NOT a valid mask ? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "255.255.255.254 "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "255.250.0.0"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "255.255.224.0"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr006q008",
+            "question": "If you have a network with 4 subnets, how many bits for you borrow from a Class C to have enough sub-network?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2 "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "4"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "5"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q009",
+            "question": "What is the purpose of Class D TCP/IP ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Large network "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Medium network"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Reserved"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Multicasting"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

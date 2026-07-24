@@ -1,0 +1,216 @@
+{
+    "id": "ppr008",
+    "title": "Chapter 8",
+    "image_url": "",
+    "description": "Internetworking",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr008q001",
+            "question": "What is the term of the Transmission Control Protocol (TCP) / Internet Protocol (IP) protocol model?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A five-layer model that provides guidance for developing networking protocols that can be universally applied"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A four-layer model that guides the development of networking protocols that can be universally applied"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A two-layer model that provides guidance for designing networking protocols that are universally applicable"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "A model consisting of seven layers that offers direction for creating networking protocols that can be used universally"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr008q002",
+            "question": "What is the 4 layer of Transmission Control Protocol (TCP) / Internet Protocol (IP) model?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Datalink, Internet, Transport and Application"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Physical, Datalink, Network and Application"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Software, Application, Transport and Physical"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Database, Switch, Transport and Hardware"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr008q003",
+            "question": "What is a network?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A network is a group of computers or devices linked together to communicate and share information"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A network is a software program used to manage email accounts"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A network is a device used to amplify signals for better reception"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "A network is a single computer that can perform multiple tasks simultaneously"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr008q004",
+            "question": "What is a Local Area Network (LAN) Network?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A network that links devices in one place or a restricted region managed by the same organization"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A network that connects devices using satellite communication"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A network that connects multiple devices over a large geographical area"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "A network that connects devices wirelessly"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr008q005",
+            "question": "Which of the following devices is used to connect different networks together?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Firewall"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Switch"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Router"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Modem"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr008q006",
+            "question": "What is the main difference between Local Area Network (LAN) and a Wide Area Network (WAN) topologies?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The speed of data transfer"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The type of cables used for network connectivity"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The number of connected devices"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "The size of the network"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr008q007",
+            "question": "What is the function of routing protocols?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "To provide security for network traffic"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Learn routing information from neighboring routers"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "To manage network traffic and prevent congestion"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "To connect multiple devices within a network"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr008q008",
+            "question": "What is the primary difference between a Local Area Network (LAN) and a Wide Area Network (WAN) topology?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A LAN has faster network speeds than a WAN "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A LAN is a wired network, while a WAN is a wireless network"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A LAN is a network that only covers a small area, while a WAN covers a larger area"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "A LAN is used for personal communication, while a WAN is used for business communication"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr008q009",
+            "question": "What is the main difference between Transfer Control Protocol (TCP) and Internet Protocol (IP)?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "TCP is a connectionless protocol, while IP is a connection-oriented protocol"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "TCP ensures that lost packets are resent and checks for errors, while IP breaks down and puts together data packets."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "TCP breaks down data into packets and IP ensures that these packets are delivered reliably"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "TCP sets up a link between two devices, whereas IP directs the flow of data packets"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

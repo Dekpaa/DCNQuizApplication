@@ -1,0 +1,216 @@
+{
+    "id": "ppr003",
+    "title": "Chapter 3",
+    "image_url": "",
+    "description": "Data Layer",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr003q001",
+            "question": "The length of Media Access Control (MAC) address id of ______.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "36 bits"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "48 bits"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "42 bits"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "96 bits"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q002",
+            "question": "Types of error except ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Single bit error"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Multiple bits error"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Burst error"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Forward error"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr003q003",
+            "question": "What is the data layer in the OSI Layered Model? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The first layer of the model."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The third layer of the model."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The second layer of the model."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "The fourth layer of the model."
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q004",
+            "question": "What are some functions of the data layer?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Providing a physical transmission facility."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Providing a direct interface to the application layer."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Regulating the flow of data so that slow receivers are not swamped by fast senders."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q005",
+            "question": "Which sub-layer of the data layer is responsible for controlling access to a shared media?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Error control"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Framing"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Media Access Control (MAC)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Addressing"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q006",
+            "question": "What is the purpose of addressing in the data layer?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Regulating the flow of data"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Encoding hardware addresses"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": " Detecting and recovering data errors"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Breaking up the bit stream into discrete frames"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q007",
+            "question": "What is framing in the data layer?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Synchronizing machines for data transfer"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Assembling bits into bytes"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Encoding hardware addresses"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Breaking up the bit stream into discrete frames"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr003q008",
+            "question": "What are the two ways of error correction in the digital world?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Frontward Error Connection , Backward Error Connection"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Backward Error Connection , Forward Error Connection"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Forward Error Connection,Error Detecting Code"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Forward Error Connection , Error Correcting Code"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q009",
+            "question": "What is used as parity bits for error detection in Forward Error Connection?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Corrupted bits"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Data frames"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Redundant bits"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Checksum bits"
+                }
+            ],
+            "correct_answer": "C"
+        }
+    ]
+}

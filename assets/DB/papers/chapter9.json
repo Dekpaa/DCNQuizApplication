@@ -1,0 +1,216 @@
+{
+    "id": "ppr009",
+    "title": "Chapter 9",
+    "image_url": "",
+    "description": "Networking Operation System",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr009q001",
+            "question": "What is the function of the Network Operating System (NOS)?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "All users can share resources and any type of data (file)."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": " NOS allows all technology services."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "NOS protects the data, information and hardware components from unauthorized users."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr009q002",
+            "question": "Which one is the CORRECT one about the first generation of Network Operating System (NOS)?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Use the potential of multitasking, multithreading, memory management and context manipulation"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Provides remote access to server/client machines"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "They made networking profitable and widely used across various products"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Make the migration path completely transparent to customers"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr009q003",
+            "question": "Which of the following is NOT a network operating system?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "iOS"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "macOS"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Linux"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Windows Server"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr009q004",
+            "question": "What is the role of the Networking Operating System (NOS)?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "To provide graphic user interface for network administrators"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "To process data packets for faster network speeds"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "To facilitate physical connections between network devices"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "To serve as gatekeepers to data and applications on all manner of these networks."
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr009q005",
+            "question": "What is the use of the Second Generation of Networking Operating System (NOS)?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "To enable multitasking, multithreading, memory management and context manipulation"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "To improve network security and prevent cyber attacks"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "To facilitate wireless networking between devices"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "To provide enhanced graphical user interface for network administrators"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr009q006",
+            "question": "What is the component of the Networking Operating System (NOS)?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Keyboard and Mouse"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Speaker and Microphone"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Software and Hardware"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Printer and Monitor"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr009q007",
+            "question": "What are types of Networking Operating System (NOS)?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Mobile NOS and Embedded NOS"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Peer to Peer NOS and Client/Server NOS"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Cloud NOS and Virtualization NOS"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Mainframe NOS and Supercomputer NOS"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr009q008",
+            "question": "Which network operating system is used primarily in large enterprise networks?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "macOS "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "NetWare"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Linux"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Windows Server"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr009q009",
+            "question": "Which network operating system is free and open source?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "NetWare"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Windows Server"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "macOS"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Linux"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

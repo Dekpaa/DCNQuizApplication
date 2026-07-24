@@ -1,0 +1,208 @@
+{
+    "id": "ppr005",
+    "title": "Chapter 5",
+    "image_url": "",
+    "description": "Wide Area Network",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr005q001",
+            "question": "_________ is a pocket switched network designed for transmitting data over fixed lines.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ATM"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "ADSI"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Frame relay"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "SONET"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr005q002",
+            "question": "ATM is an acronym for ________ in data communication.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Asynchronous Teller Machine"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Asynchronous Transfer Mode"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Asynchronous Telecommunication Mode"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Asynchronous Transmission Mode"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q003",
+            "question": "Because ATM ________, which means that cells follow the same path, the cells do not usually arrive out of order.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "is multiplexed"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "is a network "
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "is asynchronous"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "uses virtual circuit routing"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q004",
+            "question": "ATM's connection-oriented paradigm introduces significant delay for distant communication.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "True"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "False"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q005",
+            "question": "When setting up Frame Relay for point-to-point subinterfaces, which of the following must not be configured?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The Frame Relay encapsulation on the physical interface "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The local DLCI on each subinterface"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "An IP address on the physical interface"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "The subinterface type as point-to-point"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr005q006",
+            "question": "The Acme Corporation is implementing dial-up services to enable remote-office employees to connect to the local network. The company uses multiple routed protocols, needs authentication of users connecting to the network, and since some calls will be long distance, needs callback support. Which of the following protocols is the best choice for these remote services? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Frame Relay"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Point-to-Point Protocol (PPP)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "High-level Data Link Control (HDLC)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Transmission Control Protocol (TCP)"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q007",
+            "question": "A public switching telephone network (PSTN) uses which switching technique? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Packet "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Circuit"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Message"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None of these"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q008",
+            "question": "Suppose that you have a customer who has a central HQ and six branch offices. They anticipate adding six more branches in the near future. They wish to implement a WAN technology that will allow the branches to economically connect to HQ and you have no free ports on the HQ router. Which of the following would you recommend?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Frame Relay "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Point-to-Point Protocol (PPP)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "High-level Data Link Control (HDLC)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Transmission Control Protocol (TCP)"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q009",
+            "question": "What technology takes data and breaks them into packets and sends them over a network, sometimes using different routes for each packet?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Circuit switching "
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Network switching"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Message switching"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Packet switching"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}
